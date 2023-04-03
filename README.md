@@ -1,6 +1,6 @@
 # Combined-methods
 
-implementations of 
-actor critic, Deep deterministic policy gradient,
-time delayed deep deterministic policy gradient, 
-soft actor critic and proximal policy optimization with clipping.
+Implementations of 
+Actor critic, Deep deterministic policy gradient,
+Time delayed deep deterministic policy gradient, 
+Soft actor critic and Proximal policy optimization with clipping.
